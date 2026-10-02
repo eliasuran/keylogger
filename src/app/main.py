@@ -28,6 +28,7 @@ class App():
             self.key_capture.capture(self.key_callback)
             nsapp = NSApplication.sharedApplication()
             nsapp.setActivationPolicy_(NSApplicationActivationPolicyAccessory)
+            print("RUNNING!")
             AppHelper.runConsoleEventLoop()
         except Exception as e:
             #TODO:stop captures on exception

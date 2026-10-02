@@ -1,0 +1,7 @@
+.venv/
+uv.lock
+*__pycache__/
+__init__.spec
+keylogger.spec
+dist/
+build/
