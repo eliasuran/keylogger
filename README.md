@@ -1,3 +1,5 @@
+basic keylogger, stores key pressed in a log file. captures keys pressed even if program is in the background
+
 ## built w/
 
 python3 (uv), pyobjc
