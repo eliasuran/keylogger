@@ -5,3 +5,5 @@ __init__.spec
 keylogger.spec
 dist/
 build/
+keylogger
+keylogger.sh

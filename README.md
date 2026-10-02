@@ -12,4 +12,25 @@ uv
 ## build
 
 1. clone git repo
-2. run `uv run pyinstaller --onefile src/app/__init__.py`
+2. run designated build script
+
+### windows
+
+.\build.ps1
+
+
+### mac/linux
+
+./build.sh
+
+
+## run program
+
+### windows
+
+.\keylogger
+
+
+### mac/linux
+
+./keylogger
