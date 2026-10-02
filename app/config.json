@@ -1,0 +1,6 @@
+{
+  "core_directory": ".mpu_logger",
+  "log_directory": "logs",
+  "timestamp_format": "%H:%M:%S.%f",
+  "filename_prefix": "log"
+}
