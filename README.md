@@ -1,8 +1,6 @@
 ## built w/
 
-python3
-    - pyobjc
-uv
+python3 (uv), pyobjc
 
 ## requirements
 
@@ -11,7 +9,7 @@ uv
 
 ## build
 
-1. clone git repo
+1. clone git repo (`git clone https://github.com/eliasuran/keylogger.git`)
 2. run designated build script
 
 **windows**
@@ -21,7 +19,7 @@ uv
 ```
 
 
-***mac/linux**
+**mac/linux**
 
 ```
 ./build.sh
@@ -34,7 +32,6 @@ uv
 
 ```
 .\keylogger
-
 ```
 
 **mac/linux**
