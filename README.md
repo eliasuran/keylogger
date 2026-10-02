@@ -14,23 +14,31 @@ uv
 1. clone git repo
 2. run designated build script
 
-### windows
+**windows**
 
+```
 .\build.ps1
+```
 
 
-### mac/linux
+***mac/linux**
 
+```
 ./build.sh
+```
 
 
-## run program
+## run the program
 
-### windows
+**windows**
 
+```
 .\keylogger
 
+```
 
-### mac/linux
+**mac/linux**
 
+```
 ./keylogger
+```
